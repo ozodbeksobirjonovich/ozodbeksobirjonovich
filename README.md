@@ -33,4 +33,7 @@
 <p align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozodbeksobirjonovich&theme=tokyonight">
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=ozodbeksobirjonovich&theme=dracula&border_radius=4.5)
+
+<p align="center">
+   <img src="https://streak-stats.demolab.com?user=ozodbeksobirjonovich&theme=dracula&border_radius=4.5">
+</p>
