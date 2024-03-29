@@ -3,13 +3,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=F78A13&center=true&random=false&width=1000&height=100&lines=Ozodbek Sobirjonovich" alt="Typing SVG" /></a>
 **`Founder of Macrosoft | Software Developer | Teacher | Content Maker`**
 
-<p align="center">
+<p align="left">
    Hammaga salom! Mening ismim Ozodbek va men 22 yoshdaman. Asosiy soham dasturchilik bo'lishiga qaramasdan, bu yo'nalish bo'yicha mentorlik ham qilaman.
 
-   <img align="center" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+   <img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 </p>
 
-   <p align="center">
+   <p align="left">
 <!--       <a href="https://www.youtube.com/c/Фсоки?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCeiC2G8vcz6tBmvVo8ydMgQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>  -->
 <!--       <a href="https://www.youtube.com/c/Фсоки">
